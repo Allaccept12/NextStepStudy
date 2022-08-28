@@ -2,7 +2,7 @@ package com.example.calculator;
 
 public class CalculatorTest {
 
-    // Next Step에서는 main()코드의 목적은 테스트 코드라고 함.
+
     public static void main(String[] args) {
         Calculator calculator = new Calculator();
         addTest(calculator);
