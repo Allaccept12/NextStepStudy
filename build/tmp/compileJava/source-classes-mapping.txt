@@ -1,2 +1,10 @@
+com/example/calculator/CalculatorTest.java
+ com.example.calculator.CalculatorTest
+com/example/calculator/Test.java
+ com.example.calculator.Test
+ com.example.calculator.Test$A
+ com.example.calculator.Test$B
 com/example/calculator/Calculator.java
  com.example.calculator.Calculator
+com/example/calculator/StringCalculator.java
+ com.example.calculator.StringCalculator
